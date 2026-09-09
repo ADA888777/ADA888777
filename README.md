@@ -118,7 +118,6 @@
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com?user=ADA888777&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
 <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADA888777&theme=github_dark" alt="Top languages by repo" />
 <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADA888777&theme=github_dark" alt="Most commit language" />
