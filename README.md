@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Ada;Cybersecurity+Enthusiast;Full-Stack+Developer;AI+Explorer" alt="Ada" />
+<h1>Ada &nbsp;·&nbsp; آدا</h1>
 
-### 🔐 Cybersecurity &nbsp;·&nbsp; 💻 Full-Stack &nbsp;·&nbsp; 🤖 AI &nbsp;·&nbsp; 🌐 Networks
+<h3>🔐 Cybersecurity Enthusiast &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI Explorer</h3>
+
+<p><i>Building secure applications — web development, automation, cloud & networks.</i></p>
 
 <p>
 <a href="https://my-profile-87.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
@@ -11,7 +13,10 @@
 <a href="https://t.me/Ada778877"><img src="https://img.shields.io/badge/Contact%20Me-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ADA888777&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=ADA888777&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ADA888777?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
+</p>
 
 </div>
 
@@ -32,8 +37,8 @@
 <br>
 
 أنا **آدا**، مبرمجة مهتمة بمجال **الأمن السيبراني والبرمجة والشبكات**.
-أبني تطبيقات ويب متكاملة وآمنة، وأعمل على أدوات مدعومة بالذكاء الاصطناعي والأتمتة،
-وأشارك تجاربي ومعرفتي عبر **الدورات والمحتوى التقني** ومجتمع **خيمة تقنية**.
+
+أبني تطبيقات ويب متكاملة وآمنة، وأعمل على أدوات مدعومة بالذكاء الاصطناعي والأتمتة، وأشارك تجاربي ومعرفتي عبر **الدورات والمحتوى التقني** ومجتمع **خيمة تقنية**.
 
 </details>
 
@@ -59,6 +64,7 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -80,20 +86,31 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-<a href="https://github.com/ADA888777/sentry-ai"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA888777&repo=sentry-ai&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ADA888777/SecureCode-AI-"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA888777&repo=SecureCode-AI-&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/ADA888777/Network-Defense-Tree"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA888777&repo=Network-Defense-Tree&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ADA888777/Security-Data-Hub"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA888777&repo=Security-Data-Hub&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/ADA888777/Secure-Access-Vault"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA888777&repo=Secure-Access-Vault&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/ADA888777/Malxplain"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ADA888777&repo=Malxplain&theme=tokyonight&hide_border=true" /></a>
-</p>
+### 🔐 Security & AI
 
-<div align="center"><a href="https://github.com/ADA888777?tab=repositories"><b>Browse all repositories</b></a></div>
+| Project | What it is | Tech |
+| :--- | :--- | :--- |
+| [**sentry-ai**](https://github.com/ADA888777/sentry-ai) | AI-assisted security monitoring & alerting experiments | TypeScript |
+| [**SecureCode-AI**](https://github.com/ADA888777/SecureCode-AI-) | AI helper for reviewing code and spotting insecure patterns | TypeScript |
+| [**Security-Data-Hub**](https://github.com/ADA888777/Security-Data-Hub) | Dashboard for collecting and exploring security data | TypeScript |
+| [**Secure-Access-Vault**](https://github.com/ADA888777/Secure-Access-Vault) | Secure access management & protected data storage | TypeScript |
+| [**Secure-File**](https://github.com/ADA888777/Secure-File) | Safe file handling, encryption & sharing workflow | TypeScript |
+| [**Network-Defense-Tree**](https://github.com/ADA888777/Network-Defense-Tree) | Interactive map of network defense layers & concepts | TypeScript |
+| [**Network-Fingerprinting-System**](https://github.com/ADA888777/-Network-Fingerprinting-System) | Network fingerprinting & asset identification tooling | TypeScript |
+| [**Malxplain**](https://github.com/ADA888777/Malxplain) | Tool that explains malicious-code behaviour for defenders | Python |
+
+### 🌐 Web Apps & Products
+
+| Project | What it is | Tech |
+| :--- | :--- | :--- |
+| [**My-store**](https://github.com/ADA888777/My-store) | Online store for my digital products & courses | TypeScript |
+| [**Loyalty**](https://github.com/ADA888777/Loyalty) | Customer loyalty & rewards management system | TypeScript |
+| [**Cinema-Ticket-System**](https://github.com/ADA888777/Cinema-Ticket-System) | Cinema seat booking & ticketing platform | TypeScript |
+| [**Room-Lab-Booking-Management-System**](https://github.com/ADA888777/Room-Lab-Booking-Management-System-) | Rooms & labs reservation management system | JavaScript |
+| [**My-profile**](https://github.com/ADA888777/My-profile-) | My personal portfolio website | TypeScript |
+| [**My-tree**](https://github.com/ADA888777/My-tree) | My links hub (link-in-bio page) | HTML |
+
+<div align="center"><a href="https://github.com/ADA888777?tab=repositories"><b>→ Browse all repositories</b></a></div>
 
 ---
 
@@ -101,10 +118,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ADA888777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADA888777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="60%" src="https://streak-stats.demolab.com?user=ADA888777&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ADA888777&theme=tokyo-night&hide_border=true&area=true" />
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADA888777&theme=github_dark" alt="Top languages by repo" />
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADA888777&theme=github_dark" alt="Most commit language" />
+
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADA888777&theme=github_dark" alt="Stats" />
+<img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADA888777&theme=github_dark&utcOffset=3" alt="Productive time" />
 
 </div>
 
@@ -135,6 +155,6 @@
 
 <i>"Security is not a product, but a process."</i>
 
-<sub>If you find my work useful, consider starring a repository — it means a lot!</sub>
+<sub>⭐ If you find my work useful, consider starring a repository — it means a lot!</sub>
 
 </div>
