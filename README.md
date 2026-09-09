@@ -2,7 +2,7 @@
 
 <h1>Ada &nbsp;·&nbsp; آدا</h1>
 
-<h3>🔐 Cybersecurity Enthusiast &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; 🤖 AI Explorer</h3>
+<h3> Cybersecurity Enthusiast &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; AI Explorer</h3>
 
 <p><i>Building secure applications — web development, automation, cloud & networks.</i></p>
 
@@ -22,17 +22,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🔐 **Cybersecurity** — secure coding, network defense and threat analysis.
-- 💻 **Full-Stack Development** — TypeScript, JavaScript, Python and modern web tooling.
-- 🤖 **AI Explorer** — building AI-assisted security and productivity tools.
-- ☁️ Passionate about **automation, cloud technologies and networking**.
-- 🎓 I create Arabic technical content & courses, and run the **خيمة تقنية** community.
-- 💬 Ask me about **web security, secure development and shipping products end-to-end**.
+- **Cybersecurity** — secure coding, network defense and threat analysis.
+- **Full-Stack Development** — TypeScript, JavaScript, Python and modern web tooling.
+- **AI Explorer** — building AI-assisted security and productivity tools.
+- Passionate about **automation, cloud technologies and networking**.
+- I create Arabic technical content & courses, and run the **خيمة تقنية** community.
+- Ask me about **web security, secure development and shipping products end-to-end**.
 
 <details>
-<summary><b>🌙 نبذة بالعربية</b></summary>
+<summary><b> نبذة بالعربية</b></summary>
 
 <br>
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -84,9 +84,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 Security & AI
+### Security & AI
 
 | Project | What it is | Tech |
 | :--- | :--- | :--- |
@@ -99,7 +99,7 @@
 | [**Network-Fingerprinting-System**](https://github.com/ADA888777/-Network-Fingerprinting-System) | Network fingerprinting & asset identification tooling | TypeScript |
 | [**Malxplain**](https://github.com/ADA888777/Malxplain) | Tool that explains malicious-code behaviour for defenders | Python |
 
-### 🌐 Web Apps & Products
+### Web Apps & Products
 
 | Project | What it is | Tech |
 | :--- | :--- | :--- |
@@ -114,7 +114,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -129,7 +129,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -154,6 +154,6 @@
 
 <i>"Security is not a product, but a process."</i>
 
-<sub>⭐ If you find my work useful, consider starring a repository — it means a lot!</sub>
+<sub> If you find my work useful, consider starring a repository — it means a lot!</sub>
 
 </div>
